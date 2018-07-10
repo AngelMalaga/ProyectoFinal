@@ -1,0 +1,155 @@
+{
+  "Background": [{
+    "R": 255,
+    "B": 255,
+    "G": 255
+  }],
+  "SongName": "C:\\Users\\Alumno-CT\\Desktop\\AudioEditor-master\\AudioEditor\\data\\Eury.mp3",
+  "Level": [
+    {
+      "Shape": 1,
+      "Position": 40,
+      "Size": 10,
+      "Color": [{
+        "R": 0,
+        "B": 0,
+        "G": 0
+      }],
+      "x": 0,
+      "Time": 0
+    },
+    {
+      "Shape": 1,
+      "Position": 290,
+      "Size": 10,
+      "Color": [{
+        "R": 171,
+        "B": 210,
+        "G": 92
+      }],
+      "x": 150,
+      "Time": 3000
+    },
+    {
+      "Shape": 1,
+      "Position": 140,
+      "Size": 10,
+      "Color": [{
+        "R": 171,
+        "B": 210,
+        "G": 92
+      }],
+      "x": 400,
+      "Time": 8000
+    },
+    {
+      "Shape": 1,
+      "Position": 190,
+      "Size": 25,
+      "Color": [{
+        "R": 171,
+        "B": 210,
+        "G": 92
+      }],
+      "x": 150,
+      "Time": 3000
+    },
+    {
+      "Shape": 2,
+      "Position": 140,
+      "Size": 25,
+      "Color": [{
+        "R": 171,
+        "B": 210,
+        "G": 92
+      }],
+      "x": 200,
+      "Time": 4000
+    },
+    {
+      "Shape": 2,
+      "Position": 290,
+      "Size": 25,
+      "Color": [{
+        "R": 63,
+        "B": 210,
+        "G": 202
+      }],
+      "x": 350,
+      "Time": 7000
+    },
+    {
+      "Shape": 2,
+      "Position": 190,
+      "Size": 25,
+      "Color": [{
+        "R": 63,
+        "B": 136,
+        "G": 202
+      }],
+      "x": 550,
+      "Time": 11000
+    },
+    {
+      "Shape": 2,
+      "Position": 90,
+      "Size": 25,
+      "Color": [{
+        "R": 63,
+        "B": 136,
+        "G": 202
+      }],
+      "x": 100,
+      "Time": 73374
+    },
+    {
+      "Shape": 2,
+      "Position": 240,
+      "Size": 25,
+      "Color": [{
+        "R": 63,
+        "B": 136,
+        "G": 95
+      }],
+      "x": 300,
+      "Time": 77374
+    },
+    {
+      "Shape": 2,
+      "Position": 140,
+      "Size": 25,
+      "Color": [{
+        "R": 214,
+        "B": 223,
+        "G": 95
+      }],
+      "x": 500,
+      "Time": 81374
+    },
+    {
+      "Shape": 2,
+      "Position": 90,
+      "Size": 25,
+      "Color": [{
+        "R": 214,
+        "B": 223,
+        "G": 95
+      }],
+      "x": 250,
+      "Time": 76374
+    },
+    {
+      "Shape": 2,
+      "Position": 190,
+      "Size": 25,
+      "Color": [{
+        "R": 214,
+        "B": 223,
+        "G": 95
+      }],
+      "x": 400,
+      "Time": 79374.359375
+    }
+  ],
+  "Lenght": 60
+}
